@@ -10,11 +10,11 @@ h2 {
   color: white;
 }
 
-h1, h2 {
+h1, h2, .start {
   font-weight: bold;
 }
 
-h1, h2, h3, p {
+h1, h2, h3, p, .start {
   font-family: Helvetica;
 }
 
@@ -31,7 +31,5 @@ h1, h2, h3, p {
 }
 
 .start {
-  font-family: Helvetica;
-  font-weight: bold;
   color: blue;
 }
